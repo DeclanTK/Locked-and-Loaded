@@ -5,7 +5,8 @@ Thanks for checking out our project! This is a self designed GUI based puzzle ga
 
 We were the only group in the class to receive a score of 100% on our project and I think if you take a look our efforts will become evident.
 
-You'll find all of the images and necessary data files, as well as all python files are included in this repository.
+You'll find all of the images and necessary data files, as well as all python files are included in this repository. All files must be downloaded in order for the game to function correctly and completely.
+
 In order to start the game correctly you should run the file "disambig_home_screen.py" first, this should be the only file you need to manually run. The first GUI you will encounter will be the home screen, from here you can create a new player, start a game with an existing player profile (if that player hasn't already completed the game), open the "How to Play" section, access the leaderboard of players who have completed the game, and quit the game. The ideal steps to take would be to read how to play first so you understand the goal of the game exactly. From there you should create a new player with a name different from any that are in the list of pre existing names (this is to avoid you writing over someone else's save data). Once you have created a new player proceed to the "start game" button, select your newly created player profile and enjoy the game!
 
 
