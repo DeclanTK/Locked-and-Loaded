@@ -3,9 +3,13 @@ An escape the room type puzzle game coded in python for a class project at Drexe
 
 Thanks for checking out our project! This is a self designed GUI based puzzle game, developed in Python with a team of 5 students. Using custom images, and game concepts we created an escape the room game that involves various puzzles with the goal of "escaping" the virtual room. Python concepts we used include: pickle (a simple stack-based serialization method), database, randomizing and self made functions, as well as, cursor coordinate tracking and event recognition, and conditional statements and loops.
 
-We we're the only group in the class to receive a score of 100% on our project and I think if you take a look our efforts will become evident.
+We were the only group in the class to receive a score of 100% on our project and I think if you take a look our efforts will become evident.
 
-You'll find all of the images and necessary data files, as well as all python files are included in this repository. When coding our project we ran into problems as all programmers do. However we managed to overcome many of them thanks to hours spent collaborating in the engineering building and the library. The issues we could not over come are listed below. In order to make the gaming experience more smooth and to avoid any confusion it is recommended that you read on to understand what may occur and how to avoid these bugs.
+You'll find all of the images and necessary data files, as well as all python files are included in this repository.
+In order to start the game correctly you should run the file "disambig_home_screen.py" first, this should be the only file you need to manually run. The first GUI you will encounter will be the home screen, from here you can create a new player, start a game with an existing player profile (if that player hasn't already completed the game), open the "How to Play" section, access the leaderboard of players who have completed the game, and quit the game. The ideal steps to take would be to read how to play first so you understand the goal of the game exactly. From there you should create a new player with a name different from any that are in the list of pre existing names (this is to avoid you writing over someone else's save data). Once you have created a new player proceed to the "start game" button, select your newly created player profile and enjoy the game!
+
+
+When coding our project we ran into problems as all programmers do. However we managed to overcome many of them thanks to hours spent collaborating in the engineering building and the library. The issues we could not over come are listed below. In order to make the gaming experience more smooth and to avoid any confusion it is recommended that you read on to understand what may occur and how to avoid these bugs.
 
 Please note: The GUI's we make in our game use Tkinter and therefore many of these issues can be attributed to the limitations of Tkinter as a game development platform.
 
