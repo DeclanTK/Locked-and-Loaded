@@ -1,5 +1,5 @@
 # Locked-and-Loaded
-An escape the room type puzzle game coded in python for a class project at Drexel University.
+An escape the room type puzzle game coded in python for a sophomore class project at Drexel University.
 
 Thanks for checking out our project! This is a self designed GUI based puzzle game, developed in Python with a team of 5 students. Using custom images, and game concepts we created an escape the room game that involves various puzzles with the goal of "escaping" the virtual room. Python concepts we used include: pickle (a simple stack-based serialization method), database, randomizing and self made functions, as well as, cursor coordinate tracking and event recognition, and conditional statements and loops.
 
