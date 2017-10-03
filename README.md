@@ -29,4 +29,4 @@ We developed code that would randomly generate a maze however this maze is entir
 **Note #5 (Windowed game play):**
 It is included in our "How To Play" section on the home screen but I wanted to reiterate. It is important that you play the *entire game* in **windowed mode** for the best visual gaming experience. It is also important that you **reposition** each window as it opens so that you are able to see the entire window. This will ensure you don't miss any labels or potential game play pieces that would otherwise be occluded.
 
-Other than that I sincerely hope you enjoy our game. We worked very hard on it and extremely proud to put our names on it. Enjoy!
+Other than that I sincerely hope you enjoy our game. We worked very hard on it and are extremely proud to put our names on it. Enjoy!
